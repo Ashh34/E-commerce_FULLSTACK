@@ -34,23 +34,24 @@ This project implements essential ecommerce features like product management, ca
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](./HomePage.png)
+![Home Page](./Screenshots_WebApp/HomePage.png)
 
 ### 📂 Category Page
-![Category Page](./CategoryPage.png)
+![Category Page](./Screenshots_WebApp/CategoryPage.png)
 
 ### 🛒 Product Page
-![Product Page](./ProductPage.png)
+![Product Page](./Screenshots_WebApp/ProductPage.png)
 
 ### 🔑 Signup Page
-![Signup Page](./AccountCreation.png)
+![Signup Page](./Screenshots_WebApp/AccountCreation.png)
 
 ### 💳 Payment Page
-![Payment Page](./PaymentPage.png)
+![Payment Page](./Screenshots_WebApp/PaymentPage.png)
 
 ### 🛍 Cart Page
-![Cart Page](./CartPage.png)
+![Cart Page](./Screenshots_WebApp/CartPage.png)
 
 ### 📦 Orders Page
-![Orders Page](./OrderedItems.png)
+![Orders Page](./Screenshots_WebApp/OrderedItems.png)
+
 ---
