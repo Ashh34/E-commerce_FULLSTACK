@@ -31,3 +31,26 @@ This project implements essential ecommerce features like product management, ca
 - MySQL – Database  
 - Stripe API – Payment handling  
 ---
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](./HomePage.png)
+
+### 📂 Category Page
+![Category Page](./CategoryPage.png)
+
+### 🛒 Product Page
+![Product Page](./ProductPage.png)
+
+### 🔑 Signup Page
+![Signup Page](./AccountCreation.png)
+
+### 💳 Payment Page
+![Payment Page](./PaymentPage.png)
+
+### 🛍 Cart Page
+![Cart Page](./CartPage.png)
+
+### 📦 Orders Page
+![Orders Page](./OrderedItems.png)
+---
