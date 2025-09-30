@@ -30,9 +30,4 @@ This project implements essential ecommerce features like product management, ca
 - Spring Data JPA & Hibernate – ORM  
 - MySQL – Database  
 - Stripe API – Payment handling  
-
-### Tools
-- Git & GitHub  
-- Postman (for API testing)  
-
 ---
